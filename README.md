@@ -1,5 +1,5 @@
 
-# Sentiment Analysis Web App
+# Movie Review Analysis
 
 This web application takes user reviews as input and predicts whether the sentiment is **positive** or **not positive**.
 
